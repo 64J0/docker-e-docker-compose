@@ -13,3 +13,5 @@ Alguns comandos executados durante a vídeo-aula:
   # build the Dockerfile
   docker build -t leaderboard-api .
 ```
+
+O Dockerfile é basicamente uma receita para configurar o projeto. Com esse arquivo o Docker já consegue entender e configurar tudo automaticamente.
